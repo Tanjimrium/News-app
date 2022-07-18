@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="tab_label1">Top</string>
+    <string name="tab_label2">Science</string>
+    <string name="tab_label3">Business</string>
+    <string name="tab_label4">Health</string>
+    <string name="tab_label5">Tech</string>
+    <string name="tab_label6">Sports</string>
+
+    <string name="api_key">7fd5fdab03a6464dadddfdb98bc236fd</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
